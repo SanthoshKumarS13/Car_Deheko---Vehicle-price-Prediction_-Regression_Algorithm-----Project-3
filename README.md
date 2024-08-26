@@ -7,15 +7,15 @@ This project is the third capstone project in my Data Science course, focused on
 **Skills Gained**
 Through this project, I applied and enhanced the following skills:
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis (EDA)
-Python Programming
-Machine Learning: Regression Algorithms
-Streamlit for Web App Deployment
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Python Programming
+* Machine Learning: Regression Algorithms
+* Streamlit for Web App Deployment
+  
 The model achieved an accuracy of 90%, demonstrating the effectiveness of the chosen approach and methods.
 
-****
-Project Problem Statement****
+****Project Problem Statement****
 
 **Objective**
 
