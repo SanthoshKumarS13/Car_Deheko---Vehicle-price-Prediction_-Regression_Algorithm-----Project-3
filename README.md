@@ -28,14 +28,15 @@ Car Dheko provided historical data on used car prices, including various feature
 **Features**
 
 **User Input:** Users can input car features such as make, model, year, fuel type, and more.
-**Instant Prediction: ** The application provides an immediate price estimate based on the input data.
+**Instant Prediction:** The application provides an immediate price estimate based on the input data.
 **Interactive Web Interface:** The Streamlit app is designed to be intuitive and easy to use for both technical and non-technical users.
-Deployment
+
+**Deployment**
 
 The final model was deployed using Streamlit, making it accessible as a web application. This deployment allows users to easily interact with the model and obtain price predictions for various vehicles.
 
 **Conclusion**
 
-This project demonstrates the practical application of data science and machine learning techniques in a real-world scenario. By developing a highly accurate price prediction model and deploying it as an interactive tool, the project successfully meets the objectives set forth and provides a valuable resource for enhancing customer and sales operations at Car Dheko.
+This project demonstrates the practical application of data science and machine learning techniques in a real-world scenario. By developing a highly accurate price prediction model of accuracy around 92% and deploying it as an interactive tool, the project successfully meets the objectives set forth and provides a valuable resource for enhancing customer and sales operations at Car Dheko.
 
 
