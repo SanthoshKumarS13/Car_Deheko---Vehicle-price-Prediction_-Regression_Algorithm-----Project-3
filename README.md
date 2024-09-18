@@ -37,6 +37,6 @@ The final model was deployed using Streamlit, making it accessible as a web appl
 
 **Conclusion**
 
-This project demonstrates the practical application of data science and machine learning techniques in a real-world scenario. By developing a highly accurate price prediction model of accuracy around 92% and deploying it as an interactive tool, the project successfully meets the objectives set forth and provides a valuable resource for enhancing customer and sales operations at Car Dheko.
+This project demonstrates the practical application of data science and machine learning techniques in a real-world scenario. By developing a highly accurate price prediction model of accuracy around 90% and deploying it as an interactive tool, the project successfully meets the objectives set forth and provides a valuable resource for enhancing customer and sales operations at Car Dheko.
 
 
